@@ -13,7 +13,7 @@ I watched these as well when I started my research and it clarified a lot of key
 
 I would suggest you start from the second half of the lecture *Introduction to Key Concepts from Quantum Mechanics for Beginning Computational Chemists* in the playlist, and make it all the way to the *Basis sets part 2* lecture. This is around five hours of lectures.
 
-I think this would be an excellent use of the remaining week before the official start of the BEP — if you make it through these and grasp the concepts, you are well on your way towards understanding current research publications, and towards carrying out some interesting research of your own.
+I think this would be an excellent use of the time before starting a new research project. if you make it through these and grasp the concepts, you are well on your way towards understanding current research publications, and towards carrying out some interesting research of your own.
 
 You should naturally use this in conjunction with reference no. 2 below (which talks about many of the same topics). Prof. Sherrill also has some lecture notes on his website: <http://vergil.chemistry.gatech.edu/notes/>. These are a bit more advanced, but are still worth a look (especially the parts that relate to the content of the video lectures).
 
