@@ -1,4 +1,4 @@
-# qchem_qc
+# Quantum Algorithms introduction TU/e
 
 A gentle introduction to variational quantum algorithms for quantum chemistry.
 
